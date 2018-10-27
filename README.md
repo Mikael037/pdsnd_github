@@ -18,6 +18,9 @@ Would you like to filter the data by month, day, or not at all?
 There is also a possibility for the user to view the raw data.
 
 ### Files used
-
+Data files used:
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
