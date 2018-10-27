@@ -3,7 +3,7 @@ The project was created 2018-10-13
 This README file was created 2018-10-27
 
 ### Project Title
-Bikeshare
+Bikeshare US
 
 ### Description
 The project is about comparing usage in a bicycle-sharing system between three large cities: Chicago, New York City, and Washington, DC.
