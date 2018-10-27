@@ -17,13 +17,13 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello there! Let\'s explore some interesting US bikeshare data!')
 
 
     """
     Get user input for city (chicago, new york city, washington)
     """
-    city = input('Would you like to see data for Chicago, New York or Washington? ').casefold()
+    city = input('Would you like to see data for the city Chicago, New York or Washington? ').casefold()
 
     while city not in CITY_DATA:
             print("Sorry, there's no data for that city!")
@@ -32,7 +32,7 @@ def get_filters():
     """
     Ask user to view raw data
     """
-    answer = input('Would you like to see the raw data? yes/no ')
+    answer = input('Would you like to see the raw data from the city you chose? yes/no ')
 
     answer_data = ['yes', 'no']
 
