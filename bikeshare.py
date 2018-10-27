@@ -23,7 +23,7 @@ def get_filters():
     """
     Get user input for city (chicago, new york city, washington)
     """
-    city = input('Would you like to see data for Chicago, New York or Washington? ').casefold()
+    city = input('Would you like to see data for the city Chicago, New York or Washington? ').casefold()
 
     while city not in CITY_DATA:
             print("Sorry, there's no data for that city!")
