@@ -32,7 +32,7 @@ def get_filters():
     """
     Ask user to view raw data
     """
-    answer = input('Would you like to see the raw data? yes/no ')
+    answer = input('Would you like to see the raw data from the city you chose? yes/no ')
 
     answer_data = ['yes', 'no']
 
