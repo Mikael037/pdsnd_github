@@ -38,3 +38,4 @@ Gender
 Birth Year
 
 ### Credits
+Credits to Udacity resources, e.g. mentors and study groups.
